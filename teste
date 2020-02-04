@@ -1,0 +1,86 @@
+********************************************************************************
+Obsolete PIO Core v3.6.4 is used (previous was 3.6.6)
+Please remove multiple PIO Cores from a system:
+https://docs.platformio.org/page/faq.html#multiple-pio-cores-in-a-system
+********************************************************************************
+RSSI=  -95dB
+Longitude: -49.46797
+Latitude: -27.78977
+----------
+Longitude: -49.46863
+Latitude: -27.78823
+Altitude: 862.51
+Distance: 104.75m
+
+RSSI=  -95dB
+Longitude: -49.46797
+Latitude: -27.78977
+----------
+Longitude: -49.46862
+Latitude: -27.78823
+Altitude: 863.01
+Distance: 104.69m
+
+RSSI=  -96dB
+Longitude: -49.46797
+Latitude: -27.78977
+----------
+Longitude: -49.46862
+Latitude: -27.78823
+Altitude: 862.91
+Distance: 104.80m
+
+RSSI=  -97dB
+Longitude: -49.46797
+Latitude: -27.78977
+----------
+Longitude: -49.46862
+Latitude: -27.78823
+Altitude: 861.91
+Distance: 104.85m
+
+RSSI=  -97dB
+Longitude: -49.46797
+Latitude: -27.78977
+----------
+Longitude: -49.46861
+Latitude: -27.78822
+Altitude: 861.31
+Distance: 104.95m
+
+RSSI=  -97dB
+Longitude: -49.46796
+Latitude: -27.78977
+----------
+Longitude: -49.46860
+Latitude: -27.78822
+Altitude: 860.21
+Distance: 104.98m
+
+RSSI=  -96dB
+Longitude: -49.46796
+Latitude: -27.78977
+----------
+Longitude: -49.46860
+Latitude: -27.78822
+Altitude: 860.21
+Distance: 104.95m
+
+RSSI=  -96dB
+Longitude: -49.46796
+Latitude: -27.78977
+----------
+Longitude: -49.46861
+Latitude: -27.78822
+Altitude: 860.51
+Distance: 104.77m
+
+RSSI=  -96dB
+Longitude: -49.46796
+Latitude: -27.78977
+----------
+Longitude: -49.46861
+Latitude: -27.78823
+Altitude: 860.71
+Distance: 104.63m
+
